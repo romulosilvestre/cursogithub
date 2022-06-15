@@ -15,3 +15,7 @@ https://mm.tt/map/2327244629?t=Ow8KW5DTrZ
 ```
 https://mm.tt/map/2327871728?t=OAo99sxoBP
 ```
+Planilha de Controle
+```
+https://docs.google.com/spreadsheets/d/1dGFg5gf4jX6aYfaovbzF0nzpbNuBQceDj_HEGSJEiTs/edit#gid=1386834576
+```
